@@ -20,6 +20,13 @@ h1 {
     color: darkorchid;
 }
 
+h2 {
+    font-size: 50px;
+    color: darkcyan;
+    text-align: center;
+    text-decoration: underline;
+}
+
 div {
     padding-top: 15px;
     margin-right: 20px;
